@@ -1,0 +1,11 @@
+Item,Value
+worktimestandardservice,456
+worktimeNBService,420
+service setup time,15
+service windup time,15
+idle time duration,30
+service cost,15
+breaktime,30
+MaxDriveTimeBeforeBreak,270
+MaxWorkTimeBeforeBreak,330
+Trip buffertime,15

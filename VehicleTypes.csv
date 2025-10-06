@@ -1,0 +1,6 @@
+VehicleType,Capacity_decimal,FixedCost,VariableCost_per_km,changeDock_time_min,folded_load_time_min,folded_unload_time_min,unfolded_load_time_min,unfolded_unload_time_min
+Van,2.5,50,0.5,5,6,5,8,7
+TruckSmall,6,80,0.9,7,10,9,14,12
+TruckLarge,12,120,1.2,10,18,16,25,22
+Bike,0.5,20,0.1,2,2,2,3,3
+MiniTruck,4,60,0.7,6,8,7,12,10

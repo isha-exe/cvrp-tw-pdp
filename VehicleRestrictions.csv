@@ -1,0 +1,13 @@
+Node,DisallowedVehicleTypes
+1,"MiniTruck, TruckLarge"
+2,
+3,TruckSmall
+4,Van
+5,
+6,TruckSmall
+7,"Bike, TruckSmall"
+8,"Van, TruckLarge"
+9,
+10,
+11,MiniTruck
+12,
